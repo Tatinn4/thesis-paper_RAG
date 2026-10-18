@@ -1,0 +1,6 @@
+pymupdf
+python-docx
+sentence-transformers
+faiss-cpu
+numpy
+ipykernel

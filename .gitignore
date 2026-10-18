@@ -1,0 +1,7 @@
+.venv/
+papers/
+*.pkl
+*.faiss
+.ipynb_checkpoints/
+__pycache__/
+.env
