@@ -14,7 +14,7 @@ My first RAG project. You ask a question about a research paper, and it answers 
 **Step 1: Get the project**
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/Tatinn4/thesis-paper_RAG.git
 cd thesis-rag
 ```
 
